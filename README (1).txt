@@ -1,0 +1,4 @@
+This project was definitely a series of trials and errors. I tried many different outside of the box ideas such as using hash tables and othe array techniques but ultimately used a series of classes and definition.
+One problem I had was organization the log by total days. I had to implement many differen fucntions, some ended up being redundant and confusing to I had to go back through my code a lot to organize data.
+Another problem I cam across was figuring out the best ways to use line.split to optimize my data and make it easy as possible for me. I had to look back on notes and lectures but I ulitmately figured out how to format the splits the best way
+The third and biggest problem I had was when and who to implement a class for I decided to make my class domain based as the users were presented in all of the sample reports.
